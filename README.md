@@ -60,18 +60,18 @@ Esta aplicação implementa um CRUD (Create, Read, Update, Delete) para gerencia
 
 ### Rotas
 
-- `/veiculos`: Exibe a lista de veículos.
+- `/`: Exibe a lista de veículos.
 
 ## Como Executar
 
 1. **Backend (Spring Boot):**
    - Certifique-se de ter o Java instalado.
-   - Navegue até o diretório `backend/`.
+   - Navegue até o diretório `gerenciador_spring/`.
    - Execute o comando: `./mvnw spring-boot:run`.
 
 2. **Frontend (Angular):**
    - Certifique-se de ter o Node.js e o Angular CLI instalados.
-   - Navegue até o diretório `frontend/`.
+   - Navegue até o diretório `crud-angular/`.
    - Execute o comando: `ng serve`.
 
 3. **Acesse a Aplicação:**
